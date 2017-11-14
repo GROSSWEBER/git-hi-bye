@@ -1,4 +1,4 @@
-# git-bye-hi
+# git-hi-bye
 
 git aliases to quickly transfer the current branch between machines using private branches on the server.
 
